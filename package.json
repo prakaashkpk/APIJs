@@ -1,0 +1,24 @@
+{
+  "name": "apijs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "log-symbols": "^4.1.0",
+    "log-update": "^4.0.0",
+    "log4js": "^6.3.0",
+    "ora": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
